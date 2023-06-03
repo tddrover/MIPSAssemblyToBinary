@@ -1,0 +1,17 @@
+add 32
+sub 34
+slt 42	
+lw 35 
+sw 43
+la 9
+bne 5
+beq 4
+j 2
+sll 0
+srl 2
+li 9
+addi 8
+and 36
+or 37
+move 33
+syscall 12
