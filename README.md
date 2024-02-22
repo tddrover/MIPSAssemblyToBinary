@@ -14,6 +14,7 @@ Screenshots:
 
 <div display="flex">
 <img src="/pictures/Screenshot_1.png" alt="Image 1" width="50%" />
+  <img src="/pictures/Screenshot_3.png" alt="Image 2" width="50%"/>
 </div>
 
 
